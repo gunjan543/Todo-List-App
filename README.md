@@ -1,2 +1,2 @@
 # Todo-List App
-Simple and interactive Todo-List App made with React.js,HTML,CSS , Javascript and material-ui/icons.
+Simple and interactive Todo-List App made with React.js,HTML,CSS , Javascript .
